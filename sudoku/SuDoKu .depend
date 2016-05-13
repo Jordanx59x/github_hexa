@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463138213 source:/home/jordan/Documents/Sudoku/SuDoKu /main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
